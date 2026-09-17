@@ -388,7 +388,7 @@
             .col
               h3 Mejora continua
           p.mb-5 La mejora continua integra los resultados obtenidos mediante inspecciones, monitoreos, auditorías, registros, incidentes y análisis de indicadores. Su finalidad es mantener el programa actualizado frente a cambios en los riesgos, las instalaciones, los procedimientos y las condiciones de producción. En lugar de tratar cada hallazgo como un evento independiente, este enfoque permite relacionar problemas recurrentes y establecer ajustes de mayor alcance. El ciclo de gestión se desarrolla de la siguiente manera:
-          .row.align-items-center.mb-5
+          .row.align-items-end.mb-5
             .col-xl-6.mb-4.mb-lg-0(data-aos="fade-right")
               .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
                 h5 Figura 2.

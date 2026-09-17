@@ -287,7 +287,7 @@
         .col-xl-auto.d-none.d-xl-block(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/t2/img32.svg', alt='' style="width: 190px").m-auto
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-end.mb-5
         .col-xl-6.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
           .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
             h5 Figura 1.
@@ -295,33 +295,33 @@
           figure(data-aos="zoom-in")
             img(src='@/assets/curso/temas/t2/img33.png', alt='Etiqueta informativa de un insecticida profesional Aviclean 25 EC, con datos sobre ingrediente activo, uso autorizado, condiciones de empleo, precauciones, clasificación de peligro, atención en emergencias, restricciones posteriores, contenido neto, lote, fechas y pictogramas de seguridad. ').m-auto
         .col-xl-6
-          .box___style_2(data-aos="fade-left")
+          .box___style_2.fit___box_6(data-aos="fade-left")
             ul.fa-ul.estilo___ul.mb-0
-              li.mb-0
+              li.mb-3
                 span.fa-li
                   i.fas.fa-feather-alt
                 | #[b Nombre comercial:] permite identificar el producto específico y diferenciarlo de otras formulaciones.
-              li.mb-0
+              li.mb-3
                 span.fa-li
                   i.fas.fa-feather-alt
                 | #[b Ingrediente activo:] informa la sustancia responsable de la acción principal y facilita el seguimiento técnico dentro del programa.
-              li.mb-0
+              li.mb-3
                 span.fa-li
                   i.fas.fa-feather-alt
                 | #[b Uso autorizado:] indica los organismos, situaciones o áreas para los cuales el producto ha sido aprobado según su registro.
-              li.mb-0
+              li.mb-3
                 span.fa-li
                   i.fas.fa-feather-alt
                 | #[b Condiciones de empleo:] reúne las indicaciones que deben respetarse durante cualquier actividad autorizada con el producto.
-              li.mb-0
+              li.mb-3
                 span.fa-li
                   i.fas.fa-feather-alt
                 | #[b Precauciones:] advierte sobre situaciones que pueden representar riesgo para las personas, los animales, el ambiente o los productos avícolas.
-              li.mb-0
+              li.mb-3
                 span.fa-li
                   i.fas.fa-feather-alt
                 | #[b Categoría o clasificación de peligro:] permite reconocer el nivel o tipo de peligro comunicado por el sistema correspondiente.
-              li.mb-0
+              li.mb-3
                 span.fa-li
                   i.fas.fa-feather-alt
                 | #[b Restricciones posteriores:] informa medidas como tiempos de reingreso u otras limitaciones que deban respetarse cuando correspondan.

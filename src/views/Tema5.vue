@@ -374,7 +374,7 @@
             .row(titulo="Barreras deterioradas").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Priorizar mantenimiento o reparación y revisar si la condición permitió el ingreso de organismos o generó otros riesgos.
             .row(titulo="Incumplimiento recurrente").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Analizar las causas y establecer medidas que intervengan el origen del problema, en lugar de limitarse a corregir cada evento de forma aislada.
+              p.mb-3 Analizar las causas y establecer medidas que intervengan en el origen del problema, en lugar de limitarse a corregir cada evento de forma aislada.
       .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
         .col-lg-auto
           figure

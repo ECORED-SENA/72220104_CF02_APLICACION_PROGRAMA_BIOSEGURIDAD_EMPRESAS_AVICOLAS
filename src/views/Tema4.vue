@@ -163,7 +163,7 @@
       Separador
       #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.4 Trazabilidad
-      p.mb-5 La trazabilidad consiste en la capacidad de reconstruir el historial de una actividad mediante información documentada. En el CIP permite relacionar hallazgos, decisiones, intervenciones y resultados sin depender únicamente del conocimiento informal del personal. Una trazabilidad adecuada facilita establecer cuándo se presentó un problema, en qué área ocurrió, qué medida se aplicó, quién participó y cuál fue el resultado obtenido.
+      p.mb-5 La trazabilidad consiste en la capacidad de reconstruir el historial de una actividad mediante información documentada. El CIP permite relacionar hallazgos, decisiones, intervenciones y resultados sin depender únicamente del conocimiento informal del personal. Una trazabilidad adecuada facilita establecer cuándo se presentó un problema, en qué área ocurrió, qué medida se aplicó, quién participó y cuál fue el resultado obtenido.
       .row.justify-content-center.mb-5
         .col-xl-10
           .box___style_21(data-aos="zoom-in")
@@ -216,7 +216,7 @@
       .row.align-items-center.mb-3
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
-            .row(titulo="Programa de Control Integrado de Plagas").ajuste-cajaAcordion.ajuste-vineta
+            .row(titulo="Programa de Control integrado de plagas").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Define objetivos, responsabilidades, criterios de seguimiento, métodos de control y lineamientos generales para la gestión de plagas.
             .row(titulo="Procedimientos Operativos Estandarizados (POE)").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Describen de manera estructurada las actividades que deben desarrollarse, las responsabilidades y los criterios de control correspondientes.
