@@ -96,7 +96,7 @@
       p.mb-0 La secuencia puede ajustarse según el tipo de organismo y las condiciones de la granja, pero debe conservar el principio de intervenir primero sobre los factores que favorecen la presencia de plagas.
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 1.2 Seguimiento del programa de bioseguridad (nota: hay dos secciones numeradas "1.2")
+        h2 1.2 Seguimiento del programa de bioseguridad
       p El seguimiento permite comprobar si los procedimientos se aplican de acuerdo con lo establecido y si las medidas mantienen las condiciones sanitarias requeridas. La revisión debe incluir puntos relacionados con el ingreso, las barreras sanitarias, la limpieza, el control de plagas, los residuos, los registros y las prácticas del personal.
       p.mb-5 Los aspectos de control pueden organizarse mediante criterios que permitan documentar no solo el cumplimiento, sino también los hallazgos y las acciones necesarias:
       .row.align-items-center.mb-3

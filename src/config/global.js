@@ -289,7 +289,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/72220104_CF02_CFA.zip',
       },
       {
         icono: 'fas fa-download',
@@ -436,11 +436,6 @@ export default {
           cargo:
             'Profesional 06. Responsable del ecosistema virtual de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
         },
       ],
     },
